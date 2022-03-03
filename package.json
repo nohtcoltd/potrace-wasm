@@ -1,6 +1,6 @@
 {
-  "name": "potrace-wasm",
-  "version": "1.0.5",
+  "name": "@nohtcoltd/potrace-wasm",
+  "version": "1.0.6",
   "description": "Potrace Porting in Web Assembly",
   "main": "index.js",
   "directories": {
