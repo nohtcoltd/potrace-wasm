@@ -18,12 +18,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IguteChung/potrace-wasm.git"
+    "url": "git+https://github.com/nohtcoltd/potrace-wasm.git"
   },
   "author": "frank chung",
   "license": "GPL-2.0",
   "bugs": {
-    "url": "https://github.com/IguteChung/potrace-wasm/issues"
+    "url": "https://github.com/nohtcoltd/potrace-wasm/issues"
   },
-  "homepage": "https://github.com/IguteChung/potrace-wasm#readme"
+  "homepage": "https://github.com/IguteChung/potrace-wasm#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
 }
